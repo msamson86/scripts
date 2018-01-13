@@ -1,4 +1,5 @@
 #usage: ./ping X.X.X.
+#test
 
 import subprocess,sys,thread
 
