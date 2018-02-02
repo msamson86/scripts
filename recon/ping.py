@@ -1,5 +1,5 @@
 #usage: ./ping X.X.X.
-#test
+#OSCP Exercise: 1.3.1.3 question 2
 
 import subprocess,sys,thread
 
